@@ -1,2 +1,2 @@
-# LESE-N
-LEvenshstein Sequential Evaluation metric
+# LEvenshstein Sequential Evaluation (LESE) metric 
+ LEvenshstein Sequential Evaluation metric
